@@ -1,0 +1,10 @@
+El objetivo de este proyecto es explorar los datos del dataset llamado students usando PostgreSQL para comprobar si se llegaría
+a una conclusión similar para el estudiantado internacional y ver si la duración de la estancia es un factor que contribuye.
+
+
+La conclusión del estudio es:
+"El estudio encontró que el alumnado internacional tiene un mayor riesgo de dificultades de salud mental que la 
+población general, y que la conexión social (pertenecer a un grupo social) y el estrés de aculturación 
+(el estrés asociado a integrarse en una nueva cultura) predicen la depresión."
+
+
