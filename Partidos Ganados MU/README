@@ -1,0 +1,2 @@
+En este proyecto se realizó una consulta SQL con el fin de obtener los resultados del Manchester United durante la temporada '2014/2015'.
+El objetivo era que la salida de la consulta sean los equipos contra los que jugó, el resultado, si ganó o perdió el partido y que los mismos esten rankeados por la diferencia de gol.
